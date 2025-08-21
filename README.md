@@ -44,16 +44,16 @@ npm run dev
 Prority-Planner/                                              
 ├── public/                                                          
 │   └── index.html                                                 
-├── src/
-│   ├── components/      # Reusable React components
-│   ├── pages/           # Page-level components or views
-│   ├── App.jsx          # Main app component
-│   └── index.jsx        # App entry point
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── vite.config.js
-└── README.md
+├── src/                                                                                                                           
+│   ├── components/      # Reusable React components                                                                        
+│   ├── pages/           # Page-level components or views                                                                   
+│   ├── App.jsx          # Main app component                                                                                                         
+│   └── index.jsx        # App entry point                                                                                                   
+├── .gitignore                                                                                                                                 
+├── package.json                                                                                                                                       
+├── package-lock.json                                                                                                                                          
+├── vite.config.js                                                                                                                                                    
+└── README.md                                                                                                                     
 
 
 ## 🚀 Usage Instructions
