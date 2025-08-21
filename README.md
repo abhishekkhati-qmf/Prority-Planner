@@ -41,9 +41,9 @@ npm run dev
 
 #Folder Structure
 
-Prority-Planner/
-├── public/
-│   └── index.html
+Prority-Planner/                                              
+├── public/                                                          
+│   └── index.html                                                 
 ├── src/
 │   ├── components/      # Reusable React components
 │   ├── pages/           # Page-level components or views
