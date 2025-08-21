@@ -2,7 +2,9 @@
 
 **Prority-Planner** is a simple and intuitive task management application built with **React.js** and **Vite**, designed to help users efficiently organize, prioritize, and manage their daily activities.
 
+## 🚀 Deployment
 
+You can check out the live app here: [Live Demo](https://priorityplannerabhishek.netlify.app/)
 
 ---
 
