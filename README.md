@@ -40,6 +40,7 @@ npm run dev
 ```
 
 #Folder Structure
+
 Prority-Planner/
 ├── public/
 │   └── index.html
